@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "name": "cicd-demo",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
